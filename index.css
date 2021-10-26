@@ -1,0 +1,14 @@
+@import url('blocks/body/body.css');
+@import url('blocks/header/header.css');
+@import url('blocks/header/__pic1/header__pic1.css');
+@import url('blocks/header/__pic2/header__pic2.css');
+@import url('blocks/header/__text/header__text.css');
+@import url('blocks/header/__letter/header__letter.css');
+@import url('blocks/header/__picture/header__picture.css');
+@import url('blocks/search/search.css');
+@import url('blocks/search/__pic/search__pic.css');
+@import url('blocks/search/__text/search__text.css');
+@import url('blocks/profile/profile.css');
+@import url('blocks/profile/__picture/profile__picture.css');
+@import url('blocks/profile/__name/profile__name.css');
+@import url('blocks/profile/__stick/profile__stick.css');

@@ -1,0 +1,8 @@
+.header {
+    padding: 0;
+    width: 1440px;
+    margin: 0 135px 0 137px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}

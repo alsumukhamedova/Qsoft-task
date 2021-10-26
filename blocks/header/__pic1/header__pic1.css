@@ -1,0 +1,10 @@
+.header__pic1{
+    background-image: url('../../../logo1.png');
+    width: 30.15px;
+    height: 30.15px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+    padding: 0;
+    position: absolute;
+}

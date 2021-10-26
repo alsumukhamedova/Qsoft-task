@@ -1,0 +1,8 @@
+.header__letter{
+    width: 19.5px;
+    height: 18.3px;
+}
+
+.header__letter:last-child{
+    width: 34px;
+}

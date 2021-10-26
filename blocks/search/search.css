@@ -1,0 +1,9 @@
+.search{
+    display: flex;
+    flex-direction: row;
+    background-image: url("../../Rectangle 30.png");
+    margin: 20px 0 20px 0;
+    width: 763px;
+    height: 40px;
+    padding: 0;
+}
