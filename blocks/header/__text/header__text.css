@@ -1,8 +1,4 @@
 .header__text{
-    display: flex;
-    flex-direction: row;
-    margin: 30.98px 60px 30.67px 0;
-    position: relative;
-    left: 30px;
+    margin: 30.98px 60px 30.67px 10px;
     padding: 0;
 }

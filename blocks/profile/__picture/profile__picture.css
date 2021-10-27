@@ -1,5 +1,13 @@
 .profile__picture{
     width: 40px;
     height: 40px;
-    margin: auto 137px auto 10px;
+    margin: auto 0 auto 10px;
+    background-image: url("../../../images/Frame 10.png");
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 550px){
+    .profile__picture{
+        backface-visibility: visible;
+    }
 }

@@ -1,0 +1,24 @@
+.title{
+    margin: 70px auto 0;
+    width: 1170px;
+    font-family: Roboto, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 160%;
+    text-transform: uppercase;
+    color: #121920;
+}
+
+@media screen and (max-width: 800px){
+    .title{
+        width: 728px;
+        font-size: 28px;
+    }
+}
+
+@media screen and (max-width: 550px){
+    .title{
+        width: 335px;
+    }
+}
